@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.active-cat{
+    font-weight: bold;
+    border-left: 10px red solid;
+}
